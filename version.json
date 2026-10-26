@@ -1,0 +1,13 @@
+{
+  "published": "2026-10-26T00:09:52+00:00",
+  "web": "0.15.0",
+  "android": {
+    "versionCode": 27,
+    "versionName": "0.15.0-prueba",
+    "url": "https://raw.githubusercontent.com/SoyNonoCL/velada-releases/main/Velada-0.15.0-prueba.apk",
+    "sha256": "dd424d325e3711610aca663115a7ba9e8f45fda52b0a1f9a3f61d637bc2fc856",
+    "size": 7659309,
+    "notes": "Sonidos para matches, mensajes nuevos y pagos o desbloqueos exitosos (se pueden silenciar en Ajustes).",
+    "minVersionCode": null
+  }
+}
